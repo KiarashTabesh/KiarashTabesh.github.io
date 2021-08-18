@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biomechanics | Kiarash Tabesh</title>
+    <link>https://KiarashTabesh.github.io/tag/biomechanics/</link>
+      <atom:link href="https://KiarashTabesh.github.io/tag/biomechanics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biomechanics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://KiarashTabesh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Biomechanics</title>
+      <link>https://KiarashTabesh.github.io/tag/biomechanics/</link>
+    </image>
+    
+    <item>
+      <title>4D printing and applications</title>
+      <link>https://KiarashTabesh.github.io/project/4d-printing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://KiarashTabesh.github.io/project/4d-printing/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Kiarash Tabesh, Gianmarco Piccoli&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;see the full report: &lt;a href=&#34;https://www.dropbox.com/s/4rh8uz8z0mom6u1/4D%20Printing_AMP%20project_final%20draft.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;4D printing is one of the unconventional manufacturing processes that is developing rapidly these years. It adds the time dimension to 3D printed objects. The feature alteration takes place in this method that means the printed object would be changed during the time. The change can be in shape or function due to different environmental conditions. This interesting property can be applied in biomedical devices, space industry, etc. and any other applications in which the change of shape/function is needed due to a specific need or to have self-assembly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Effects of Dissipation withinBone Cellular Population Dynamic Model</title>
+      <link>https://KiarashTabesh.github.io/project/poster-bone/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://KiarashTabesh.github.io/project/poster-bone/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What we did in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using systematic innovation methods and tools&lt;/li&gt;
+&lt;li&gt;Patent search&lt;/li&gt;
+&lt;li&gt;Design for Manufacturing&lt;/li&gt;
+&lt;li&gt;Design for Assembly&lt;/li&gt;
+&lt;li&gt;Design for Disassembly&lt;/li&gt;
+&lt;li&gt;Design for Environment&lt;/li&gt;
+&lt;li&gt;Design for Reliability&lt;/li&gt;
+&lt;li&gt;Finite elements model&lt;/li&gt;
+&lt;li&gt;Optimization of mechanical system&lt;/li&gt;
+&lt;li&gt;Robust Design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This team-work project was started in Sep 2020 in the course of &amp;ldquo;Methods and Tools for Systematic Innovation&amp;rdquo; under the supervision of Professor &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=1secGXMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaetano Cascini&lt;/a&gt; and the collaboration of &lt;em&gt;&lt;a href=&#34;https://www.rold.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rold&lt;/a&gt; Company&lt;/em&gt;. Our goal was to develop a concept to reduce the energy consumption of refrigerators. After we developed the conceptual design using the systematic methods, Professor &lt;a href=&#34;https://scholar.google.com/citations?user=PEAKqrEAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mario Guagliano&lt;/a&gt; supervised us to develope the detailed mechanical disign using the knowledge we learnt from the course of &amp;ldquo;Advanced Mechanical Design&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;We took advantage of &lt;em&gt;inventor&lt;/em&gt; to prepare the CAD model and the drawings, and &lt;em&gt;Abaqus CAE&lt;/em&gt; for FEM assessments. After considering DOX, and after performing different mechanical analysis using the finite element method, we can claim that the project is now ready for prototyping.&lt;/p&gt;
+&lt;p&gt;Our project was recognized as one of the best student projects by Rold company in Jan 2021, and the project got a &lt;strong&gt;full mark&lt;/strong&gt; in the course of Advanced Mechanical Design. I would like to thank my colleagues for the grate collaboration and team-work: &lt;em&gt;Alessandra Panerai, Edison Shehu, and Lorenzo Serventi&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hdhwtp2esslrn6q/Advanced%20Mechanical%20design%20of%20a%20transparent%20roller%20panel%20for%20a%20refrigerator%20shelf%20%282%29.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report Content&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

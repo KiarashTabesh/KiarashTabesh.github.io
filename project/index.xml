@@ -5,7 +5,7 @@
     <link>https://KiarashTabesh.github.io/project/</link>
       <atom:link href="https://KiarashTabesh.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://KiarashTabesh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,15 +13,95 @@
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://KiarashTabesh.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://KiarashTabesh.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>FE analysis and optimization of the structure of a machine tool</title>
+      <link>https://KiarashTabesh.github.io/project/fem-machine-tool/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://KiarashTabesh.github.io/project/fem-machine-tool/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;FE analysis and optimization of the structure of a machine tool&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/kyf2qltz52q1hog/FE%20analysis%20and%20optimization%20of%20the%20structure%20of%20a%20machine%20tool.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the report&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transparent roller panel for a refrigerator shelf</title>
+      <link>https://KiarashTabesh.github.io/project/shelf/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://KiarashTabesh.github.io/project/shelf/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What we did in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using systematic innovation methods and tools&lt;/li&gt;
+&lt;li&gt;Patent search&lt;/li&gt;
+&lt;li&gt;Design for Manufacturing&lt;/li&gt;
+&lt;li&gt;Design for Assembly&lt;/li&gt;
+&lt;li&gt;Design for Disassembly&lt;/li&gt;
+&lt;li&gt;Design for Environment&lt;/li&gt;
+&lt;li&gt;Design for Reliability&lt;/li&gt;
+&lt;li&gt;Finite elements model&lt;/li&gt;
+&lt;li&gt;Optimization of mechanical system&lt;/li&gt;
+&lt;li&gt;Robust Design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This team-work project was started in Sep 2020 in the course of &amp;ldquo;Methods and Tools for Systematic Innovation&amp;rdquo; under the supervision of Professor &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=1secGXMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaetano Cascini&lt;/a&gt; and the collaboration of &lt;em&gt;&lt;a href=&#34;https://www.rold.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rold&lt;/a&gt; Company&lt;/em&gt;. Our goal was to develop a concept to reduce the energy consumption of refrigerators. After we developed the conceptual design using the systematic methods, Professor &lt;a href=&#34;https://scholar.google.com/citations?user=PEAKqrEAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mario Guagliano&lt;/a&gt; supervised us to develope the detailed mechanical disign using the knowledge we learnt from the course of &amp;ldquo;Advanced Mechanical Design&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;We took advantage of &lt;em&gt;inventor&lt;/em&gt; to prepare the CAD model and the drawings, and &lt;em&gt;Abaqus CAE&lt;/em&gt; for FEM assessments. After considering DOX, and after performing different mechanical analysis using the finite element method, we can claim that the project is now ready for prototyping. (in the picture you can see the snapfit mechanism that we used for the easier assembly).&lt;/p&gt;
+&lt;p&gt;Our project was recognized as one of the best student projects by Rold company in Jan 2021, and the project got a &lt;strong&gt;full mark&lt;/strong&gt; in the course of Advanced Mechanical Design. I would like to thank my colleagues for the grate collaboration and team-work: &lt;em&gt;Alessandra Panerai, Edison Shehu, and Lorenzo Serventi&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hdhwtp2esslrn6q/Advanced%20Mechanical%20design%20of%20a%20transparent%20roller%20panel%20for%20a%20refrigerator%20shelf%20%282%29.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report Content&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Other Projects</title>
+      <link>https://KiarashTabesh.github.io/project/zz_other-projects/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://KiarashTabesh.github.io/project/zz_other-projects/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;20 Projects are available in my &lt;a href=&#34;https://www.linkedin.com/in/kiarashtabesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn page&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4D printing and applications</title>
+      <link>https://KiarashTabesh.github.io/project/4d-printing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://KiarashTabesh.github.io/project/4d-printing/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Kiarash Tabesh, Gianmarco Piccoli&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;see the full report: &lt;a href=&#34;https://www.dropbox.com/s/4rh8uz8z0mom6u1/4D%20Printing_AMP%20project_final%20draft.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;4D printing is one of the unconventional manufacturing processes that is developing rapidly these years. It adds the time dimension to 3D printed objects. The feature alteration takes place in this method that means the printed object would be changed during the time. The change can be in shape or function due to different environmental conditions. This interesting property can be applied in biomedical devices, space industry, etc. and any other applications in which the change of shape/function is needed due to a specific need or to have self-assembly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Material selection for bike frame</title>
+      <link>https://KiarashTabesh.github.io/project/material-selection-for-bike-frame/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://KiarashTabesh.github.io/project/material-selection-for-bike-frame/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;MOUNTAIN BIKE FRAME ANALYSIS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kiarash Tabesh, Jorge Vidal Sesin, David Sepulveda Lopez,Leon Schilts, Carlos Barco Lainez, Mike van Zelm, Damjan Pecioski&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/x6p4fz6ng4rc35a/Group%205%20BikeFrame%20CVP%20Report.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;read the report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ok7w65aujhpi4vm/Metalurgy%20Poster_material%20selection%20for%20bike%20frame.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;read the poster&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Effects of Dissipation withinBone Cellular Population Dynamic Model</title>
+      <link>https://KiarashTabesh.github.io/project/poster-bone/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://KiarashTabesh.github.io/project/poster-bone/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What we did in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using systematic innovation methods and tools&lt;/li&gt;
+&lt;li&gt;Patent search&lt;/li&gt;
+&lt;li&gt;Design for Manufacturing&lt;/li&gt;
+&lt;li&gt;Design for Assembly&lt;/li&gt;
+&lt;li&gt;Design for Disassembly&lt;/li&gt;
+&lt;li&gt;Design for Environment&lt;/li&gt;
+&lt;li&gt;Design for Reliability&lt;/li&gt;
+&lt;li&gt;Finite elements model&lt;/li&gt;
+&lt;li&gt;Optimization of mechanical system&lt;/li&gt;
+&lt;li&gt;Robust Design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This team-work project was started in Sep 2020 in the course of &amp;ldquo;Methods and Tools for Systematic Innovation&amp;rdquo; under the supervision of Professor &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=1secGXMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaetano Cascini&lt;/a&gt; and the collaboration of &lt;em&gt;&lt;a href=&#34;https://www.rold.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rold&lt;/a&gt; Company&lt;/em&gt;. Our goal was to develop a concept to reduce the energy consumption of refrigerators. After we developed the conceptual design using the systematic methods, Professor &lt;a href=&#34;https://scholar.google.com/citations?user=PEAKqrEAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mario Guagliano&lt;/a&gt; supervised us to develope the detailed mechanical disign using the knowledge we learnt from the course of &amp;ldquo;Advanced Mechanical Design&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;We took advantage of &lt;em&gt;inventor&lt;/em&gt; to prepare the CAD model and the drawings, and &lt;em&gt;Abaqus CAE&lt;/em&gt; for FEM assessments. After considering DOX, and after performing different mechanical analysis using the finite element method, we can claim that the project is now ready for prototyping.&lt;/p&gt;
+&lt;p&gt;Our project was recognized as one of the best student projects by Rold company in Jan 2021, and the project got a &lt;strong&gt;full mark&lt;/strong&gt; in the course of Advanced Mechanical Design. I would like to thank my colleagues for the grate collaboration and team-work: &lt;em&gt;Alessandra Panerai, Edison Shehu, and Lorenzo Serventi&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hdhwtp2esslrn6q/Advanced%20Mechanical%20design%20of%20a%20transparent%20roller%20panel%20for%20a%20refrigerator%20shelf%20%282%29.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report Content&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
