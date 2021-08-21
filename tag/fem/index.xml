@@ -18,7 +18,144 @@
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://KiarashTabesh.github.io/project/fem-machine-tool/</guid>
       <description>&lt;p&gt;&lt;strong&gt;FE analysis and optimization of the structure of a machine tool&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this project we analyze and optimize the structural behavior of a machine tool system. We used Abaqus CAE software to solve the FE problem in a 3D simplified model of the machine tool structure.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-machine-tool-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The machine tool system&#34; srcset=&#34;
+               /project/fem-machine-tool/machine%20tool_1_hu2599c13d75de5840165c804f1ac60644_111881_7d864dcc5b38d6db52c872ba5939d437.png 400w,
+               /project/fem-machine-tool/machine%20tool_1_hu2599c13d75de5840165c804f1ac60644_111881_ed69bd1bf90b5703bd4baa15a8a825fb.png 760w,
+               /project/fem-machine-tool/machine%20tool_1_hu2599c13d75de5840165c804f1ac60644_111881_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://KiarashTabesh.github.io/project/fem-machine-tool/machine%20tool_1_hu2599c13d75de5840165c804f1ac60644_111881_7d864dcc5b38d6db52c872ba5939d437.png&#34;
+               width=&#34;368&#34;
+               height=&#34;255&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The machine tool system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-machine-tool-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The machine tool system&#34; srcset=&#34;
+               /project/fem-machine-tool/1_hue19fdedb352a3a68e8f9406cbf0127bf_114371_d42e34a6e5d1d1bc9e161244905f4e99.png 400w,
+               /project/fem-machine-tool/1_hue19fdedb352a3a68e8f9406cbf0127bf_114371_210ff40948fd260e69f9765aacf55c26.png 760w,
+               /project/fem-machine-tool/1_hue19fdedb352a3a68e8f9406cbf0127bf_114371_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://KiarashTabesh.github.io/project/fem-machine-tool/1_hue19fdedb352a3a68e8f9406cbf0127bf_114371_d42e34a6e5d1d1bc9e161244905f4e99.png&#34;
+               width=&#34;367&#34;
+               height=&#34;321&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The machine tool system
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;We define a sizing optimization for the crosshead to study the thickness of its walls. The objective function of the optimization problem was to minimize the total mass, and the Constraint considered in a way that the first eigen frequency must be increased by 25% with respect to the original value. In the last part a modification has been suggested in the geometry in order to optimize the structure.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/kyf2qltz52q1hog/FE%20analysis%20and%20optimization%20of%20the%20structure%20of%20a%20machine%20tool.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the report&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-deformation-subjected-to-a-500n-vertical-load-on-the-reference-point&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Deformation subjected to a 500N vertical load on the reference point&#34; srcset=&#34;
+               /project/fem-machine-tool/8_hu21a8b3cb129bf6b63b39cc172d339e46_118293_8ffe3b4ed5161639b832c58e7d7ee2c5.png 400w,
+               /project/fem-machine-tool/8_hu21a8b3cb129bf6b63b39cc172d339e46_118293_5e0a2edf878da0301b08e75ce844d3f5.png 760w,
+               /project/fem-machine-tool/8_hu21a8b3cb129bf6b63b39cc172d339e46_118293_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://KiarashTabesh.github.io/project/fem-machine-tool/8_hu21a8b3cb129bf6b63b39cc172d339e46_118293_8ffe3b4ed5161639b832c58e7d7ee2c5.png&#34;
+               width=&#34;760&#34;
+               height=&#34;588&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Deformation subjected to a 500N vertical load on the reference point
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-deformation-of-the-structure-in-the-first-frequency-mode&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Deformation of the structure in the First frequency mode&#34; srcset=&#34;
+               /project/fem-machine-tool/10_huc5f984cb1a67f9494dd39945c92c8a63_137578_d8495203c5573b92403e494661413472.png 400w,
+               /project/fem-machine-tool/10_huc5f984cb1a67f9494dd39945c92c8a63_137578_505038426ad5e9e5d6441dcc5992c53a.png 760w,
+               /project/fem-machine-tool/10_huc5f984cb1a67f9494dd39945c92c8a63_137578_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://KiarashTabesh.github.io/project/fem-machine-tool/10_huc5f984cb1a67f9494dd39945c92c8a63_137578_d8495203c5573b92403e494661413472.png&#34;
+               width=&#34;760&#34;
+               height=&#34;382&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Deformation of the structure in the First frequency mode
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-deformation-in-the-second-mode-4977-cycletime-in-the-modified-cross-section&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;the Deformation in the Second mode (49.77 cycle/time) in the modified cross section&#34; srcset=&#34;
+               /project/fem-machine-tool/19_hu08ec2bcd6caf0d5db568c899013d4675_93173_77c1d38185eac732d919419e70db84d5.png 400w,
+               /project/fem-machine-tool/19_hu08ec2bcd6caf0d5db568c899013d4675_93173_8d74016d282e77818658c2bb92b13586.png 760w,
+               /project/fem-machine-tool/19_hu08ec2bcd6caf0d5db568c899013d4675_93173_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://KiarashTabesh.github.io/project/fem-machine-tool/19_hu08ec2bcd6caf0d5db568c899013d4675_93173_77c1d38185eac732d919419e70db84d5.png&#34;
+               width=&#34;760&#34;
+               height=&#34;550&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      the Deformation in the Second mode (49.77 cycle/time) in the modified cross section
+    &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
     
