@@ -13,12 +13,12 @@
     </image>
     
     <item>
-      <title>FE analysis and optimization of the structure of a machine tool</title>
+      <title>Finite element analysis and optimization of the structure of a machine tool</title>
       <link>https://KiarashTabesh.github.io/project/fem-machine-tool/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://KiarashTabesh.github.io/project/fem-machine-tool/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;FE analysis and optimization of the structure of a machine tool&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In this project we analyze and optimize the structural behavior of a machine tool system. We used Abaqus CAE software to solve the FE problem in a 3D simplified model of the machine tool structure.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Finite element analysis and optimization of the structure of a machine tool&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this project, I analyzed the structural behavior of a machine tool system using the finite element method. I used Abaqus CAE to solve the FE problem in a 3D simplified model of the machine tool structure.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -73,7 +73,7 @@
   &lt;/div&gt;&lt;figcaption&gt;
       The machine tool system
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;We define a sizing optimization for the crosshead to study the thickness of its walls. The objective function of the optimization problem was to minimize the total mass, and the Constraint considered in a way that the first eigen frequency must be increased by 25% with respect to the original value. In the last part a modification has been suggested in the geometry in order to optimize the structure.&lt;/p&gt;
+&lt;p&gt;Then, I defined a sizing optimization for the cross-section of the structure to optimize the thickness and increase the first eigenfrequency by 25%. Lastly, I modified the geometry of the cross-section. The optimization process has been done on the modified cross-section to find the minimum thickness by minimizing the volume and satisfying the minimum requirements of the problem.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/kyf2qltz52q1hog/FE%20analysis%20and%20optimization%20of%20the%20structure%20of%20a%20machine%20tool.pdf?dl=0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the report&lt;/a&gt;&lt;/p&gt;
 
 
